@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 3 – Inventory and Data Management System
 
 **Course:** Web Dev III | **Unit:** 3 | **CO:** CO3
@@ -162,3 +163,7 @@ lab3_inventory_system/
 Mongoose schema design and field validation; Express routing and middleware; RESTful CRUD; query-string filtering, sorting and pagination; MongoDB aggregation; safe stock increments/decrements; dotenv configuration; and centralized error handling.
 
 **Note:** The assignment PDF names the required features but does not prescribe exact product fields or endpoint paths. This implementation uses the documented schema and REST endpoints above as a clear, consistent design.
+=======
+# inventory-management-system
+Web Dev 3 Ass - 3
+>>>>>>> eada60b7ef8f20a7000bcd333c497b9a9c2d665a
